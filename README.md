@@ -34,14 +34,14 @@ MongoDB
 
 ## Heroku Deploying Url's
 
-[Heroku food](https://hamza-api-server.herokuapp.com/food)<br>
-[Heroku cloth](https://hamza-api-server.herokuapp.com/cloth)<br>
+[Heroku v1](https://hamza-api-server.herokuapp.com/api/v1)<br>
+[Heroku v2](https://hamza-auth-api.herokuapp.com/api/v2)<br>
 
 ## Github Test
-[Github Actions](https://github.com/hamzashamoun96/api-server/actions)
+[Github Actions](https://github.com/hamzashamoun96/auth-api/actions)
 
 ## Github Pull Request
-[Pull Request](https://github.com/hamzashamoun96/api-server/pull/2)
+[Pull Request](https://github.com/hamzashamoun96/auth-api/pull/1)
 
 ## Test
 * for testing the application run the command npm test.
@@ -49,4 +49,4 @@ MongoDB
 ## UML 
 ![uml](/uml.png)
 ## WRRC
-![](/wrrc.png)
+![wrrc](/wrrc.png)
