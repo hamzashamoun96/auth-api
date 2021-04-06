@@ -34,7 +34,7 @@ MongoDB
 
 ## Heroku Deploying Url's
 
-[Heroku v1](https://hamza-api-server.herokuapp.com/api/v1)<br>
+[Heroku v1](https://hamza-auth-api.herokuapp.com/api/v1)<br>
 [Heroku v2](https://hamza-auth-api.herokuapp.com/api/v2)<br>
 
 ## Github Test
